@@ -13,6 +13,6 @@
     "wdio": "wdio run ./wdio.conf.js"
   },
   "dependencies": {
-    "webdriverio": "^8.8.6"
+    "webdriverio": "^8.8.8"
   }
 }
